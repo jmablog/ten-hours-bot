@@ -33,10 +33,16 @@ async function tweet() {
     });
     const results = searchResults.data?.items;
     const chosenResult = results[Math.floor(Math.random() * results.length)];
+
     const { title } = chosenResult.snippet || {};
     if (title == null) return;
-    console.log(title);
-    // await client.post('statuses/update', { status: `${title} [10 hours]` });
+
+    const formattedTitle =
+      Math.floor(Math.random() * Math.floor(100)) % 2 === 0
+        ? `${title} [10 hours]`
+        : `10 hours of ${title}`;
+
+    await client.post('statuses/update', { status: formattedTitle });
   } catch (err) {
     console.log(err);
   }
