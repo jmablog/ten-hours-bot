@@ -1,9 +1,10 @@
 import Twitter from 'twitter-lite';
 import * as dotenv from 'dotenv';
 import { google, gamesConfiguration_v1configuration } from 'googleapis';
+import htmlEntities from 'html-entities';
 
 import getQuery from './searchQueries.js';
-
+const { decode } = htmlEntities;
 dotenv.config();
 
 const youtube = google.youtube({
@@ -38,8 +39,8 @@ async function tweet() {
 
     const formattedTitle =
       Math.floor(Math.random() * Math.floor(100)) % 2 === 0
-        ? `${title} [10 hours]`
-        : `10 hours of ${title}`;
+        ? `${decode(title)} [10 hours]`
+        : `10 hours of ${decode(title)}`;
     console.log(formattedTitle);
     // await client.post('statuses/update', { status: formattedTitle });
   } catch (err) {
