@@ -126,7 +126,6 @@ lion
 lizard
 llama
 lobster
-louse
 lynx
 macaw
 magpie
