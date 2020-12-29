@@ -9,7 +9,7 @@
   "type": "module",
   "repository": "https://github.com/jmablog/ten-hours-bot.git",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "echo 'it's alive!'"
   },
   "author": "Sophie Koonin & James Adams",
   "license": "MIT",
