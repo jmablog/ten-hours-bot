@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "10 hours of...",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/jmablog/ten-hours-bot.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
