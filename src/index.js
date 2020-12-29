@@ -2,7 +2,7 @@ import Twitter from 'twitter-lite';
 import * as dotenv from 'dotenv';
 import { google, gamesConfiguration_v1configuration } from 'googleapis';
 
-import searchQueries from './searchQueries.js';
+import getQuery from './searchQueries.js';
 
 dotenv.config();
 
@@ -21,8 +21,7 @@ const client = new Twitter({
 async function tweet() {
   try {
     // pick a random search query
-    const q = searchQueries[Math.floor(Math.random() * searchQueries.length)];
-
+    const q = getQuery();
     const searchResults = await youtube.search.list({
       part: ['snippet'],
       q,
@@ -41,8 +40,8 @@ async function tweet() {
       Math.floor(Math.random() * Math.floor(100)) % 2 === 0
         ? `${title} [10 hours]`
         : `10 hours of ${title}`;
-
-    await client.post('statuses/update', { status: formattedTitle });
+    console.log(formattedTitle);
+    // await client.post('statuses/update', { status: formattedTitle });
   } catch (err) {
     console.log(err);
   }
