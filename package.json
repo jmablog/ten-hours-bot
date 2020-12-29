@@ -1,0 +1,15 @@
+{
+  "name": "ten-hours-bot",
+  "version": "1.0.0",
+  "description": "10 hours of...",
+  "main": "index.js",
+  "repository": "https://github.com/jmablog/ten-hours-bot.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sophie Koonin & James Adams",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "1.7.1"
+  }
+}
