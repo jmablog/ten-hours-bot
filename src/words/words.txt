@@ -1,247 +1,35 @@
-aardvark
-aardwolf
-african buffalo
-african elephant
-african leopard
-albatross
-alligator
 alpaca
-bison
-american robin
-anaconda
-ant
-anteater
-antelope
-arctic fox
-arctic wolf
-armadillo
-baboon
 badger
-barnacle
 bears
-beaver
 bees
 birds
-bison
-blackbird
-blue whale
 butterfly
-camel
-capybara
-caribou animal
-carp
 cats
-caterpillar
-cattle
-centipede
-cephalopod
-chameleon
-cheetah
 chickens
-chimpanzee
-chinchilla
-chipmunk
-clownfish
-cod
-coral
 cows
 crab
-crocodile
-crow
-cuckoo
-cicada
-damselfly
 deer
-dingo
 dinosaur
 dogs
-dolphin
 donkey
-dormouse
-dragonfly
-dragon
 ducks
-dung beetle
 earthworm
-eel
 elephant
-elk
-emu
-ferret
-firefly
 fish
-flamingo
-flyingfish
-fowl
 fox
 frog
-fruit bat
-gazelle
-gecko
-gerbil
-giant panda
-giant squid
 giraffe
 goat
-goldfish
 goose
-gopher
-gorilla
-grasshopper
-great white shark
-grizzly bear
-grouse
-guineafowl
-guinea pig
-seagull
-guppy
-haddock
-halibut
-hammerhead shark
-hamster
-harrier
-hedgehog
-hermit crab
-heron
-herring
-hippopotamus
-horses
-hummingbird
-humpback whale
-hyena
-iguana
-jackal
-jellyfish
-kangaroo
-kingfisher
-kiwi bird
-koala
-koi carp
-komodo dragon
-land snail
-lemming
-lemur
-leopard
-lion
-lizard
-llama
-lobster
-lynx
-macaw
-magpie
-manatee
-manta ray
-marlin
-marmoset
-marmot
-meadowlark
-meerkat
-minnow
-mockingbird
-mole animal
-mollusk
-mongoose
-monitor lizard
-monkey
-moose
-mountain goat
-mouse
-narwhal
-ocelot
-octopus
-orangutan
-ostrich
 otter
-owl
-oxen
 panda
-panther
-parakeet
-parrot
-parrotfish
-partridge
-peacock
-peafowl
-pelican
-penguin
-peregrine falcon
-pheasant
-piglet
-pigeon
-platypus
-polar bear
-pony
-porcupine
-porpoise
-possum
-puffin
-quail
-quokka
-rabbit
-raccoon
-raven
-red panda
-reindeer
-rhinoceros
-roadrunner
-rodent
-rooster
-seahorse
-sea lion
-shark
-sheep
-skunks
 sloth
-snow leopard
-sparrow
-spider monkey
-spoonbill
-squirrel
-starfish
-stingray
-stoat
-stork
-sugar glider
-swan
-swordfish
-tapir
-tasmanian devil
-termite
-tiger
-tiger shark
-toad
-tortoise
-toucan
-tree frog
-turkey
-turtle
-tyrannosaurus
-vampire bat
-viper
-vole
-wallaby
-walrus
-water buffalo
-weasel
-whale
-whippet
-wildcat
-wildebeest
-wildfowl
-wolf
-wolverine
-wombat
-woodpecker
-wren
-yak
-zebra
 3d printing
 arts and crafts
 acrylic painting
 beat poetry
 calligraphy
 circus skills
-car maintenance
 cheese rolling
 crochet
 knitting
@@ -250,7 +38,6 @@ painting
 stamp collecting
 woodwork
 yodelling
-bad recorder covers
 bob ross
 falling over
 downton abbey
@@ -275,3 +62,7 @@ kotlin
 swift language
 c++
 .net
+phil mitchell
+craig david
+philip schofield
+untitled goose game
