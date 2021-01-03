@@ -62,7 +62,4 @@ kotlin
 swift language
 c++
 .net
-phil mitchell
-craig david
-philip schofield
 untitled goose game
