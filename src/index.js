@@ -42,6 +42,7 @@ async function tweet() {
       Math.floor(Math.random() * Math.floor(10)) % 2 === 0
         ? `${decode(title)} [10 hours]`
         : `10 hours of ${decode(title)}`;
+    console.log(`formatted title is ${formattedTitle}`);
     await client.post('statuses/update', { status: formattedTitle });
   } catch (err) {
     console.log(err);
