@@ -23,6 +23,7 @@ async function tweet() {
   try {
     // pick a random search query
     const q = getQuery();
+    console.log(`seed phrase is ${q}`);
     const searchResults = await youtube.search.list({
       part: ['snippet'],
       q,
