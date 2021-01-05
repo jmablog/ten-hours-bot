@@ -52,16 +52,14 @@ sourdough
 crumpets
 eyeshadow
 lipstick
-javascript
-react js
-php
-angular js
-golang
-java
-kotlin
-swift language
-c++
-.net
+dremel
+lathe
+walnut
+pine
+ash
+redwood
+restoring
+watercolour
 untitled goose game
 baked beans
 teapots
